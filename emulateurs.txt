@@ -2,4 +2,7 @@ satari 2600, Atari 7800, NES, Game Boy, Game Boy color, Game Boy Advance, Super 
 
 Attention N64 mal sUpporté
 
- Lynx, NeoGeo, NeoGeo Pocket, FBA (subset), iMame4all (subset), PCEngine, Supergrafx, MSX, MSX2, PSX, Sega Cd, Sega 32X, Sega SG1000, Playstation, ScummVM, Vectrex, VirtualBoy, Wonderswan
+ Lynx, NeoGeo, NeoGeo Pocket, FBA (subset), iMame4all (subset), PCEngine, Supergrafx, MSX, MSX2, PSX, Sega Cd, Sega 32X, Sega SG1000, Playstation, ScummVM, Vectrex, VirtualBoy, Wonderswa
+
+Ceci correspond à l'utilisation optimal pour un Raspebrry Pi2 peut etre que ceci ne fonctionnera pas ausssi bien avec un PIA piB ou PIB+
+
